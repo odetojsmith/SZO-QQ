@@ -1,7 +1,7 @@
 # SZO-QQ
 Safe-Zeroth-Order-using-sequential-Quadratic-Constrained-Quadratic-Programming
 
-Code for the paper "Safe Zeroth-Order Optimization Using Quadratic Local Approximations", co-authored by Baiwei Guo, Yuning Jiang, Giancarlo Ferrari-Trecate and Maryam Kamgarpour
+Code for the paper "[Safe Zeroth-Order Optimization Using Quadratic Local Approximations](https://arxiv.org/abs/2303.16659)", co-authored by Baiwei Guo, Yuning Jiang, Giancarlo Ferrari-Trecate and Maryam Kamgarpour
 
 ####################
 
